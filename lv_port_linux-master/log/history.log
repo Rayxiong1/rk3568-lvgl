@@ -1,0 +1,24 @@
+2026-09-02 12:12:10 [INFO] device online: virt-001 (192.168.10.101)
+2026-09-02 12:12:33 [INFO] device online: virt-001 (192.168.10.101)
+2026-09-02 12:12:33 [INFO] device online: virt-002 (192.168.10.102)
+2026-09-02 12:12:37 [INFO] device online: virt-003 (192.168.10.103)
+2026-09-02 12:12:38 [INFO] alarm threshold set to 75
+2026-09-02 12:12:38 [INFO] alarm threshold set to 70
+2026-09-02 12:12:38 [INFO] alarm threshold set to 65
+2026-09-02 12:12:38 [INFO] alarm threshold set to 60
+2026-09-02 12:12:39 [INFO] alarm threshold set to 55
+2026-09-02 12:12:39 [INFO] alarm threshold set to 50
+2026-09-02 12:12:39 [INFO] alarm threshold set to 45
+2026-09-02 12:12:39 [INFO] alarm threshold set to 40
+2026-09-02 12:12:43 [WARN] device offline: virt-001
+2026-09-02 12:12:43 [WARN] device offline: virt-002
+2026-09-02 12:12:44 [INFO] alarm threshold set to 35
+2026-09-02 12:12:44 [INFO] alarm threshold set to 30
+2026-09-02 12:12:44 [INFO] alarm threshold set to 25
+2026-09-02 12:12:44 [INFO] alarm threshold set to 20
+2026-09-02 12:12:45 [INFO] alarm threshold set to 15
+2026-09-02 12:12:45 [INFO] alarm threshold set to 10
+2026-09-02 12:12:46 [WARN] device offline: virt-003
+2026-09-02 12:12:49 [INFO] device online: virt-001 (192.168.10.101)
+2026-09-02 12:12:50 [INFO] device online: virt-002 (192.168.10.102)
+2026-09-02 12:12:53 [INFO] device online: virt-003 (192.168.10.103)

@@ -1,0 +1,10 @@
+prefix=/home/gec/Desktop/libjpeg-turbo
+exec_prefix=/home/gec/Desktop/libjpeg-turbo
+libdir=/home/gec/Desktop/libjpeg-turbo/lib
+includedir=/home/gec/Desktop/libjpeg-turbo/include
+
+Name: libjpeg
+Description: A SIMD-accelerated JPEG codec that provides the libjpeg API
+Version: 3.1.2
+Libs: -L${libdir} -ljpeg
+Cflags: -I${includedir}
